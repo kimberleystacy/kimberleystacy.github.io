@@ -1,0 +1,50 @@
+div img {
+    /* outline: 1px solid red; */
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    padding: 5px;
+}
+
+h1{
+  font-family: arial;
+  font-weight: lighter;
+  size: 20px;
+color:black
+}
+
+li{
+list-style-type: none;
+display: inline;
+  padding: 10px;
+}
+
+body{
+font-family: arial;
+font-size: 15px;
+color: rgba(117,117,117,.7);
+
+
+}
+
+a{
+  color: gray;
+  text-decoration: none;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+
+}
+
+.imagelogo {
+  width: 200px;
+  height:125px;
+  object-fit: contain;
+}
+
+.background {
+color: lightblue;}
