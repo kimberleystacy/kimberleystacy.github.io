@@ -30,11 +30,6 @@ color: rgba(117,117,117,.7);
 a{
   color: gray;
   text-decoration: none;
-  transition: all 200ms ease;
-}
-
-a:hover{
-  color: #73bfad
 }
 
 .menu {
